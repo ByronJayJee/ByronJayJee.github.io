@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Byron Blogs Data</title>
+    <link>http://byrongaskin.com/blog/</link>
+    <description>Recent content on Byron Blogs Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://byrongaskin.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://byrongaskin.com/blog/2020/04/30/hello-world/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 -0400</pubDate>
+      
+      <guid>http://byrongaskin.com/blog/2020/04/30/hello-world/</guid>
+      <description>Welcome to my blog&amp;rsquo;s first post! Well&amp;hellip;this is awkward.
+I&amp;rsquo;m extremely excited to finally start a blog but I have no idea where to begin or what to post.
+Hopefully, my personal blog will become a log of insightful (and maybe rambly) entries about data, mathematics, technology, and the interactions that each of those topics have with society.
+&amp;hellip;but for now, let&amp;rsquo;s just start with one of my favorite jokes:</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://byrongaskin.com/blog/page/about/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>http://byrongaskin.com/blog/page/about/</guid>
+      <description>About Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://byrongaskin.com/blog/page/contact/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>http://byrongaskin.com/blog/page/contact/</guid>
+      <description>Contact Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
+    </item>
+    
+  </channel>
+</rss>
